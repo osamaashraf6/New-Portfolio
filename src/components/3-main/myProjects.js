@@ -54,15 +54,6 @@ export const myProjects = [
     link: "https://github.com/osamaashraf6/Math-magicians",
     more: "https://math-magicians-green.vercel.app/",
   },
-  {
-    projectTitel: "Portfolio ",
-    category: ["react"],
-    imgPath: "img/image.png",
-    prg: "Create a complete portfolio, multiple pages, responsive site 'react js'",
-    github: "https://github.com/osamaashraf6",
-    link: "https://github.com/singap88a/portfolio-react.git",
-    more: "https://portfolio-536da.web.app",
-  },
 
   {
     projectTitel: "Medical Crew ",

@@ -34,8 +34,6 @@ export default function Hero() {
           eager to learn new technologies and techniques to enhance my skillset.
         </p>
         <div className="all-icons flex">
-          <a className="icon icon-twitter" href=" " target="_blank"></a>
-          <a className="icon icon-whatsapp" href=" " target="_blank"></a>
           <a
             className="icon icon-github"
             href="https://github.com/osamaashraf6"
