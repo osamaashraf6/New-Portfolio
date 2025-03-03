@@ -22,16 +22,7 @@ export const myProjects = [
     link: "https://github.com/osamaashraf6/Metrices-Webapp",
     more: "https://metrices-webapp.onrender.com/",
   },
-  // {
-  //   projectTitel: "Contributed Swimming Class",
-  //   category: ["react"],
-  //   imgPath:
-  //     "https://github.com/user-attachments/assets/8fb08a2c-6266-4d70-99fd-f2053e36fd63",
-  //   prg: "This Swimming course booking web-application. I collaborated in, Users load, create, and delete courses",
-  //   github: "https://github.com/osamaashraf6",
-  //   link: "https://github.com/osamaashraf6/Final-Capstone-FrontEnd",
-  //   more: "https://swimming.onrender.com/",
-  // },
+
   {
     projectTitel: "Space-X-React-Group",
     category: ["react"],
@@ -56,11 +47,12 @@ export const myProjects = [
   {
     projectTitel: "Math Magicians ",
     category: ["react"],
-    imgPath: "img/image.png",
+    imgPath:
+      "https://github.com/user-attachments/assets/6135cf81-8585-44f2-8219-32c3434febcb",
     prg: "This a math magicians app built with CSS, REACT in this app you can make some calculations math like the addition..",
     github: "https://github.com/osamaashraf6",
     link: "https://github.com/osamaashraf6/Math-magicians",
-    more: "https://github.com/osamaashraf6/Math-magicians",
+    more: "https://math-magicians-green.vercel.app/",
   },
   {
     projectTitel: "Portfolio ",
@@ -73,50 +65,16 @@ export const myProjects = [
   },
 
   {
-    projectTitel: "JPress ",
+    projectTitel: "Medical Crew ",
     category: ["react"],
-    imgPath: "img/4r.png",
-    prg: "A platform connecting clients with service providers using AI-driven recommendations. ",
+    imgPath:
+      "https://github.com/user-attachments/assets/9cc3e253-68b2-4ef7-b0ce-eaa4b9ef3e86",
+    prg: "The Medical Crew hospital website, built with React.js and Tailwind CSS, is fully responsive across all devices.",
     github: "https://github.com/osamaashraf6",
-    link: "https://github.com/singap88a/JPress.git",
-    more: "https://jpress-550f5.web.app",
+    link: "https://github.com/osamaashraf6/Medical-Crew",
+    more: "https://medical-crew-eight.vercel.app/",
   },
-  {
-    projectTitel: "E-commerce ",
-    category: ["react"],
-    imgPath: "img/5r.png",
-    prg: "Create a laptop sales website with reactjs that is responsive to all screens. ",
-    github: "https://github.com/osamaashraf6",
-    link: "https://github.com/singap88a/e-commerce.git",
-    more: "https://e-commerce-a2b5e.web.app",
-  },
-  {
-    projectTitel: "Travel World ",
-    category: ["react"],
-    imgPath: "img/6r.png",
-    prg: "Fullstack Tourism Company website is responsive to all screens. ",
-    github: "https://github.com/osamaashraf6",
-    link: "https://github.com/singap88a/tour-management.git",
-    more: "https://tourism-31e4e.web.app",
-  },
-  {
-    projectTitel: "Top Doctor ",
-    category: ["react"],
-    imgPath: "img/7r.png",
-    prg: "The Top Doctor hospital website, built with React.js and Tailwind CSS, is fully responsive across all devices.",
-    github: "https://github.com/osamaashraf6",
-    link: "https://github.com/singap88a/Doctors.git",
-    more: "https://top-doctor-8b199.web.app",
-  },
-  {
-    projectTitel: "Shopping Cart ",
-    category: ["react"],
-    imgPath: "img/1r.png",
-    prg: "Create a shopping cart with react js. The site is effective and responsive to all screens.",
-    github: "https://github.com/osamaashraf6",
-    link: "https://github.com/singap88a/Shopping_Cart_ReactJS-main.git",
-    more: "https://shopping-cart-3fa01.web.app",
-  },
+
   // /next js/////////////////////
   {
     projectTitel: "My-Faculty-Website",
@@ -182,7 +140,7 @@ export const myProjects = [
     more: "https://github.com/osamaashraf6/Blog-App",
   },
   {
-    projectTitel: "Recipe-App",
+    projectTitel: "Collaborator Recipe-App",
     category: ["ror"],
     imgPath:
       "https://github.com/user-attachments/assets/098353cb-6066-4f61-95b2-d3d2421e40c2",
@@ -227,7 +185,7 @@ export const myProjects = [
     category: ["css"],
     imgPath:
       "https://github.com/user-attachments/assets/9f11c29c-af25-4fde-8f17-e063ef919f85",
-    prg: "The Facebook clone design is web layout built using HTML and CSS, replicating the look and feel of Facebook’s interface",
+    prg: "A website built with HTML and CSS is a static web page that provides content and visual design using HTML, CSS and lightweight",
     github: "https://github.com/osamaashraf6",
     link: "https://github.com/osamaashraf6/websiste-with-html-css",
     more: "https://rawcdn.githack.com/osamaashraf6/websiste-with-html-css/a245d9e6fbc2d96ed1176c0fb58bd123d500e4bd/templates/index.html",
@@ -237,7 +195,7 @@ export const myProjects = [
     category: ["css"],
     imgPath:
       "https://github.com/user-attachments/assets/a6640c0b-1830-409d-8a53-95fad8f106e0",
-    prg: "The Facebook clone design is web layout built using HTML and CSS, replicating the look and feel of Facebook’s interface",
+    prg: "A furniture website is an online platform that showcases and sells various types of furniture, including sofas, tables, chairs",
     github: "https://github.com/osamaashraf6",
     link: "https://github.com/osamaashraf6/website-with-grid-system-flexbox",
     more: "https://rawcdn.githack.com/osamaashraf6/website-with-grid-system-flexbox/052d9421b234d3e30f8b326dc60070c414639040/templates/index.html",
@@ -247,7 +205,7 @@ export const myProjects = [
     category: ["css"],
     imgPath:
       "https://github.com/user-attachments/assets/5222b545-59d9-427d-bb73-1d2f8d8d4cea",
-    prg: "The Facebook clone design is web layout built using HTML and CSS, replicating the look and feel of Facebook’s interface",
+    prg: "A charity website is an online platform designed to raise awareness, collect donations, and support social causes",
     github: "https://github.com/osamaashraf6",
     link: "https://github.com/osamaashraf6/awesome-website-using-wow-js-library",
     more: "https://raw.githack.com/osamaashraf6/awesome-website-using-wow-js-library/main/index.html",
@@ -363,7 +321,7 @@ export const myProjects = [
     category: ["js"],
     imgPath:
       "https://github.com/user-attachments/assets/aa57645b-3c69-4752-9dba-466846846c66",
-    prg: "This app to calculate any operations at numbers I used a built-in function from javascript  that this function called eval.",
+    prg: "A dictionary website is an online platform that provides word definitions, meanings, synonyms, antonyms, and translations",
     github: "https://github.com/osamaashraf6",
     link: "https://github.com/osamaashraf6/dictionary-app",
     more: "https://rawcdn.githack.com/osamaashraf6/dictionary-app/b68922b830ebdd28d3344fce7032dea40cdd0285/templates/dic.html",
@@ -373,7 +331,7 @@ export const myProjects = [
     category: ["js"],
     imgPath:
       "https://github.com/user-attachments/assets/36c5f23a-799b-450c-9008-5d8d3ae99653",
-    prg: "This app to calculate any operations at numbers I used a built-in function from javascript  that this function called eval.",
+    prg: "A CRUD website is a web application that allows users to Create, Read, Update, and Delete data. Built with HTML and CSS ",
     github: "https://github.com/osamaashraf6",
     link: "https://github.com/osamaashraf6/our-crud-app",
     more: "https://rawcdn.githack.com/osamaashraf6/our-crud-app/617cf7c2ab58a2591c914ad97b3786b2c7af09ee/templates/crud.html",
@@ -383,7 +341,7 @@ export const myProjects = [
     category: ["js"],
     imgPath:
       "https://github.com/user-attachments/assets/e5af1a6a-faca-48ed-87b3-9d235b380ef7",
-    prg: "This app to calculate any operations at numbers I used a built-in function from javascript  that this function called eval.",
+    prg: "A Currency Converter Website is an online tool that allows users to convert one currency into another based on real-time exchange",
     github: "https://github.com/osamaashraf6",
     link: "https://github.com/osamaashraf6/currency-converter-app",
     more: "https://rawcdn.githack.com/osamaashraf6/currency-converter-app/b54d6a39a799cf6e104f0ad881820043d25f5c9f/templates/converter.html",
@@ -402,11 +360,11 @@ export const myProjects = [
     projectTitel: "Todo List Webpack App",
     category: ["js"],
     imgPath:
-      "https://github.com/user-attachments/assets/fcd962a6-c158-4735-bfa3-6b1cfb1f9624",
-    prg: "This app to calculate any operations at numbers I used a built-in function from javascript  that this function called eval.",
+      "https://github.com/user-attachments/assets/2a97dd1e-deb7-4c56-84d9-86b3570b5c73",
+    prg: "A To-Do List Website is a simple web application that helps users organize tasks, set priorities, built with webpack",
     github: "https://github.com/osamaashraf6",
     link: "https://github.com/osamaashraf6/Todo-list-webpack",
-    more: "https://github.com/osamaashraf6/Todo-list-webpack",
+    more: "https://todo-list-webpack.vercel.app/",
   },
   {
     projectTitel: "Capstone Meal App",
@@ -454,7 +412,7 @@ export const myProjects = [
     category: ["js"],
     imgPath:
       "https://github.com/user-attachments/assets/8c80b657-17fc-457c-8825-59ad480f626d",
-    prg: "Designing a complete website interface for a restaurant using HTML and CSS and js",
+    prg: "A LinkedIn-style website design is a professional networking platform layout that focuses on user profiles, job listings",
     github: "https://github.com/osamaashraf6",
     link: "https://github.com/osamaashraf6/LinkedIn-design",
     more: "https://rawcdn.githack.com/osamaashraf6/LinkedIn-design/aca3e2bfe6729e0f2186f3de4c38c368c87fa9ef/len.html",
